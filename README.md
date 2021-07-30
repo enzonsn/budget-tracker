@@ -18,7 +18,7 @@ Currently there are issues with the Heroku version but works if you host the ser
 
 ## Installation
 
-Clone the repository and open it. Open the terminal and run 'npm i' to install. Login to mysql using 'mysql -u root -p' and entering your password. Create a database in MySQL using the schema.sql file, then run 'npm run seed' to seed the database and their tables.
+Clone the repository and open it. Open the terminal and run `npm i` to install. To host it locally, just run `npm start`.
 
 ## Usage
 
