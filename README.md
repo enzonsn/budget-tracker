@@ -1,7 +1,7 @@
 # Budget Tracker
 
 An app that allows users to track their budget using Mongoose, MongoDB, Expresss, and compression.
-Currently there are issues with the Heroku version but works if you host the server locally.
+
 
 ## Table of Contents
 
